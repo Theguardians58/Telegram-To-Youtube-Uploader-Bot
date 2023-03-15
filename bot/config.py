@@ -6,9 +6,9 @@ class Config:
 
     SESSION_NAME = "Ytupload_erbot"
 
-    API_ID = ""
+    API_ID = "29390803"
 
-    API_HASH = ""
+    API_HASH = "4227e730acf4483f59ad2799c2bd063f"
 
     CLIENT_ID = ""
 
