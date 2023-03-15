@@ -14,7 +14,7 @@ class Config:
 
     CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [1383315175]
 
     VIDEO_DESCRIPTION = ""
 
