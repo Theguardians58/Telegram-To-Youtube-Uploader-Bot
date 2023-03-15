@@ -2,9 +2,9 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "6236952483:AAFT7sjYW_IeW1xrrTqsA8m-LCuQ7WAhgMM"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "Ytupload_erbot"
 
     API_ID = ""
 
